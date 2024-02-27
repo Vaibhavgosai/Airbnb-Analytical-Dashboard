@@ -20,6 +20,9 @@ The objective of this project is to provide valuable insights to a client who is
 ###
 * By examining the distinct count of listings based on the number of bedrooms, we provided a clear overview of the distribution of Airbnb properties in Seattle. This information aids in assessing market saturation and competition within different segments of the rental market.
 
+
+![Airbnb-Dashboard](https://github.com/Vaibhavgosai/Airbnb-Analytical-Dashboard/assets/22378803/4e37dd26-a72a-4c5b-84be-464985794f28)
+
 ### Additional Insights:
 ###
 **1. Amenities and Features Analysis:**
