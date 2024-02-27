@@ -6,4 +6,4 @@ The objective of this project is to provide valuable insights to a client who is
 ###
 **1. Location Analysis:**
 ###
-*By analyzing the average rental prices per zip code, we identified areas in Seattle that are most lucrative for Airbnb rentals. This information assists the client in selecting the most profitable location for their rental property.
+* By analyzing the average rental prices per zip code, we identified areas in Seattle that are most lucrative for Airbnb rentals. This information assists the client in selecting the most profitable location for their rental property.
